@@ -1,0 +1,22 @@
+[
+  {
+    "product": "Печенье",
+    "price": 3,
+    "rating": 1
+  },
+  {
+    "product": "табак",
+    "price": 1,
+    "rating": 2
+  },
+  {
+    "product": "молоко",
+    "price": 2,
+    "rating": 3
+  },
+  {
+    "product": "бекон",
+    "price": 2,
+    "rating": 4
+  }
+]
